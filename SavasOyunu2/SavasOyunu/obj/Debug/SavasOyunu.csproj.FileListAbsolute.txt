@@ -1,0 +1,21 @@
+C:\Users\Sam\Desktop\Yeni klasör\SavasOyunu2\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+C:\Users\Sam\Desktop\Yeni klasör\SavasOyunu2\SavasOyunu\bin\Debug\SavasOyunu.exe
+C:\Users\Sam\Desktop\Yeni klasör\SavasOyunu2\SavasOyunu\bin\Debug\SavasOyunu.pdb
+C:\Users\Sam\Desktop\Yeni klasör\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.csproj.AssemblyReference.cache
+C:\Users\Sam\Desktop\Yeni klasör\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.Form1.resources
+C:\Users\Sam\Desktop\Yeni klasör\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+C:\Users\Sam\Desktop\Yeni klasör\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.cache
+C:\Users\Sam\Desktop\Yeni klasör\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\Yeni klasör\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.exe
+C:\Users\Sam\Desktop\Yeni klasör\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.pdb
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\bin\Debug\SavasOyunu.exe.config
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\bin\Debug\SavasOyunu.exe
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\bin\Debug\SavasOyunu.pdb
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.csproj.AssemblyReference.cache
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.Form1.resources
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.Properties.Resources.resources
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.csproj.GenerateResource.cache
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.exe
+C:\Users\halit\OneDrive\Masaüstü\SavasOyunu2\SavasOyunu\obj\Debug\SavasOyunu.pdb
